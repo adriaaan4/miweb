@@ -1,2 +1,3 @@
 otro archivo 2
 otro texto
+texto de prueba
